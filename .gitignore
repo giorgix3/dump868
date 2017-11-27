@@ -1,0 +1,5 @@
+.idea/*
+dump868
+cmake-build-debug/*
+CMakeFiles/*
+dumplight.cbp
